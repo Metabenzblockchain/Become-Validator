@@ -1,0 +1,28 @@
+# File node0.toml
+
+[parity]
+chain = "spec.json"
+base_path = "meta-blockchain"
+
+[network]
+port = 30300
+reserved_peers = "reserved_peer"
+
+[rpc]
+disable = true
+
+[websockets]
+disable = true
+
+[account]
+password = ["node.pwd"]
+
+[mining]
+engine_signer = "0x9185141ae84b6828aef88dae0c1e5d69c5f66746"
+reseal_on_txs = "none"
+force_sealing = true
+
+[footprint]
+tracing = "auto"
+pruning = "archive"
+fat_db = "on"
