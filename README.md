@@ -4,7 +4,7 @@
 
 2. Create an Account
 
-
+...
 chmod +x openethereum
 ./openethereum account new --config ./node.toml
 
