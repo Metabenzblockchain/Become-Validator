@@ -41,7 +41,7 @@ reseal_on_txs = "none"
    Stake
 
    To stake METABENZ network, all you should do is sending your METABENZ network to the METABENZ Consensus contract address over the METABENZ network from the validator address.
-   The METABENZ Consensus contract address: 0x9185141ae84B6828aeF88DAe0C1E5d69c5F66746
+   The METABENZ Consensus contract address: 0x4dCACA64f6CAED26F8553397a99E206ef29e9D26
    The easiest way to do so, is to import your private key or key-store file to your favourite wallet (for example Metamask), switch network to METABENZ and send the METABENZ network to the Consensus contract address.
 
    You can find your key-store (containing your private key) and the password for the created account in:
