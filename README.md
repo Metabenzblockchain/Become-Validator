@@ -2,7 +2,7 @@
 
 ## Setting up a node
 
-1. Git clone https://github.com/Metabenzblockchain/Become-Validator
+1. Git clone https://github.com/Metabenzblockchain/Become-Validator.git
 
 2. Create an Account
 
